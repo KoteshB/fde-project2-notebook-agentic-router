@@ -24,3 +24,4 @@ Implement agentic router with improved query routing and access control
     .env
 13. Updated ipynb with addition pip installs for packages that are not on my laptop
 14. loaded serp_api_key
+15. Completed Step 1 and executed search based on SERP_API_KEY
