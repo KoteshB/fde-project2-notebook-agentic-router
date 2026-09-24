@@ -44,3 +44,7 @@ Implement agentic router with improved query routing and access control
     to the top of the Notebook
 24. Completed Step 4
 25. Completed Step 5
+Note: Lesson learned: 
+In Question 1, I asked whether OpenAI provided the "answer". Very likely it did.
+The difference in that query vs the RAG query is that in RAG, the response also had a reference 
+to the document from which it got the answer.
