@@ -39,3 +39,7 @@ Implement agentic router with improved query routing and access control
 19. Added a git clone for the Qdrant repo since I did not run this in COLAB
 20. Updated path to get qdrant data
 21. Step 3 - completed. Loaded Qdrant data
+22: Step 4 - start - build Retriever and RAG for vector databases
+23. To fix compatibility issues of numpy versions with other libraries, I moved %pip install
+    to the top of the Notebook
+24. 
