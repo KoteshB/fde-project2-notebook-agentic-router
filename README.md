@@ -43,3 +43,4 @@ Implement agentic router with improved query routing and access control
 23. To fix compatibility issues of numpy versions with other libraries, I moved %pip install
     to the top of the Notebook
 24. Completed Step 4
+25. Completed Step 5
