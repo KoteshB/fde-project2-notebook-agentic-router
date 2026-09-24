@@ -25,3 +25,13 @@ Implement agentic router with improved query routing and access control
 13. Updated ipynb with addition pip installs for packages that are not on my laptop
 14. loaded serp_api_key
 15. Completed Step 1 and executed search based on SERP_API_KEY
+16. Completed Step 2 - Router Query function.
+17. QUESTION 1: There is a cell with the command: 
+                route_query("what is the revenue of uber in 2021?")
+        Response: 
+                {'action': '10K_DOCUMENT_QUERY',
+                 'reason': "Asks for Uber's annual financial revenue",
+                 'answer': "Uber's 2021 revenue was $17.5 billion"}
+    I did not tie up the Qdrant data for 10K. How did the system respond with an answer?
+
+    Since this command goes through OpenAI, did OpenAI fill the answer?
