@@ -42,4 +42,4 @@ Implement agentic router with improved query routing and access control
 22: Step 4 - start - build Retriever and RAG for vector databases
 23. To fix compatibility issues of numpy versions with other libraries, I moved %pip install
     to the top of the Notebook
-24. 
+24. Completed Step 4
