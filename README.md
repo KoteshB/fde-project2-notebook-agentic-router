@@ -35,3 +35,7 @@ Implement agentic router with improved query routing and access control
     I did not tie up the Qdrant data for 10K. How did the system respond with an answer?
 
     Since this command goes through OpenAI, did OpenAI fill the answer?
+18. Step 3 - start
+19. Added a git clone for the Qdrant repo since I did not run this in COLAB
+20. Updated path to get qdrant data
+21. Step 3 - completed. Loaded Qdrant data
