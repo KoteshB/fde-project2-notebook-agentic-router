@@ -51,3 +51,5 @@ to the document from which it got the answer.
 26. Start step 6 - setup users, roles and role permissions
 27. Execute queries
 28. Completed step 6
+29. Assignment Part 1 - Sub-query Division - setup is done. 
+30. Start Part 1 of implementation in 'def agentic_rag_multi'
