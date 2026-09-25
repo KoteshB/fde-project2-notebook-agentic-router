@@ -48,3 +48,6 @@ Note: Lesson learned:
 In Question 1, I asked whether OpenAI provided the "answer". Very likely it did.
 The difference in that query vs the RAG query is that in RAG, the response also had a reference 
 to the document from which it got the answer.
+26. Start step 6 - setup users, roles and role permissions
+27. Execute queries
+28. Completed step 6
