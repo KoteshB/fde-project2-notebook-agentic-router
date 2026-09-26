@@ -1,6 +1,11 @@
 # fde-project2-notebook-agentic-router
 Implement agentic router with improved query routing and access control
 
+Prerequisites:
+    OPENAI_API_KEY
+    SERP_API_KEY
+
+Changelist
 1. Created a GitHub repo named fde-project2-notebook-agentic-router
 2. Cloned this repo to a local folder
 3. Committed the initial file for a baseline
