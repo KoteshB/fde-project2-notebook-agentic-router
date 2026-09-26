@@ -60,3 +60,4 @@ to the document from which it got the answer.
 35. added more validation and saved results to resultSet
 36. Something is wrong. Restarting the kernel fixed it.
 37. Added more validation for empty string
+38. Added Colab markdown so that the notebook can be opened in Colab
