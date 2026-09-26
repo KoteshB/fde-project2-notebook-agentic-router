@@ -54,4 +54,7 @@ to the document from which it got the answer.
 29. Assignment Part 1 - Sub-query Division - setup is done. 
 30. Start Part 1 of implementation in 'def agentic_rag_multi'
 31.     implemented 1: sub_queries
-32,     implemented 2: agentic_rag on each sub_query
+32.     implemented 2: agentic_rag on each sub_query
+33. Re-wrote the logic - to be more defensive for JSON parsing
+34. Instead of calling a pre-existing definition, the code explicitly queries for the route
+ 
