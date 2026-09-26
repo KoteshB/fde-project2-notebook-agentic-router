@@ -59,3 +59,4 @@ to the document from which it got the answer.
 34. Instead of calling a pre-existing definition, the code explicitly queries for the route
 35. added more validation and saved results to resultSet
 36. Something is wrong. Restarting the kernel fixed it.
+37. Added more validation for empty string
